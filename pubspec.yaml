@@ -1,0 +1,6 @@
+name: dslink_redis
+description: Redis for DSA
+dependencies:
+  dslink:
+    git: https://github.com/IOT-DSA/sdk-dslink-dart.git
+  redis_client: ">=0.1.15 <0.2.0"
